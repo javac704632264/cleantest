@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="@dimen/common_dimens_100dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="@dimen/common_dimens_8dp"
+            android:layout_marginLeft="@dimen/common_dimens_8dp">
+
+            <LinearLayout
+                android:id="@+id/ll_week"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/common_dimens_148dp"
+                android:orientation="vertical"
+                android:background="@drawable/shape_no_subscript_bg">
+
+                <TextView
+                    android:id="@+id/tv_week"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/common_dimens_31dp"
+                    android:text="@string/string_week"
+                    android:textColor="@color/color_ff3963"
+                    android:textSize="@dimen/common_text_size_18sp"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/common_dimens_9dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/tv_week_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="@dimen/common_dimens_5dp"
+                        android:textSize="@dimen/common_text_size_25sp"
+                        android:textColor="@color/color_030303"
+                        android:maxLines="1"
+                        tools:text="99.9"/>
+
+                    <TextView
+                        android:id="@+id/tv_week_unit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="@dimen/common_dimens_5dp"
+                        android:text="$"
+                        android:textSize="@dimen/common_text_size_14sp"
+                        android:textColor="@color/color_030303"/>
+
+
+
+                </LinearLayout>
+
+                <!--<TextView
+                    android:id="@+id/tv_origin_week_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/common_dimens_15dp"
+                    android:layout_marginBottom="@dimen/common_dimens_24dp"
+                    android:textColor="@color/color_999999"
+                    android:textSize="@dimen/common_text_size_14sp"
+                    android:visibility="gone"
+                    android:text="$ 5.9"/>-->
+
+            </LinearLayout>
+
+            <!--<FrameLayout
+                android:id="@+id/fl_week_lottie"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/common_dimens_155dp"
+                android:layout_marginTop="@dimen/common_dimens_8dp"
+                android:background="@drawable/shape_no_subscript_bg"
+                android:visibility="gone">
+
+                <com.airbnb.lottie.LottieAnimationView
+                    android:id="@+id/lottie_week"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="@dimen/common_dimens_2dp"/>
+
+            </FrameLayout>-->
+
+            <TextView
+                android:id="@+id/tv_week_discount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="@dimen/common_text_size_9sp"
+                android:paddingBottom="@dimen/common_dimens_3dp"
+                android:paddingTop="@dimen/common_dimens_3dp"
+                android:paddingLeft="@dimen/common_dimens_8dp"
+                android:paddingStart="@dimen/common_dimens_8dp"
+                android:paddingRight="@dimen/common_dimens_8dp"
+                android:paddingEnd="@dimen/common_dimens_8dp"
+                android:background="@drawable/shape_sub_ratio_bg"
+                android:visibility="gone"
+                tools:text="70% OFF"/>
+        </FrameLayout>
+
+
+        <FrameLayout
+            android:layout_width="@dimen/common_dimens_100dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="@dimen/common_dimens_8dp"
+            android:layout_marginLeft="@dimen/common_dimens_8dp">
+
+            <LinearLayout
+                android:id="@+id/ll_month"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/common_dimens_148dp"
+                android:orientation="vertical"
+                android:background="@drawable/shape_no_subscript_bg">
+
+                <TextView
+                    android:id="@+id/tv_month"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/common_dimens_31dp"
+                    android:text="@string/string_month"
+                    android:textColor="@color/color_ff3963"
+                    android:textSize="@dimen/common_text_size_18sp"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/common_dimens_9dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/tv_month_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="@dimen/common_dimens_5dp"
+                        android:textSize="@dimen/common_text_size_25sp"
+                        android:textColor="@color/color_030303"
+                        android:maxLines="1"
+                        tools:text="99.9"/>
+
+
+                    <TextView
+                        android:id="@+id/tv_month_unit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="@dimen/common_dimens_5dp"
+                        android:text="$"
+                        android:textSize="@dimen/common_text_size_14sp"
+                        android:textColor="@color/color_030303"/>
+
+
+
+                </LinearLayout>
+
+                <!--<TextView
+                    android:id="@+id/tv_origin_month_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/common_dimens_15dp"
+                    android:layout_marginBottom="@dimen/common_dimens_24dp"
+                    android:textColor="@color/color_999999"
+                    android:textSize="@dimen/common_text_size_14sp"
+                    android:visibility="gone"
+                    android:text="$ 25.9"/>-->
+
+            </LinearLayout>
+
+           <!-- <FrameLayout
+                android:id="@+id/fl_month_lottie"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/common_dimens_155dp"
+                android:layout_marginTop="@dimen/common_dimens_8dp"
+                android:background="@drawable/shape_no_subscript_bg"
+                android:visibility="gone">
+
+                <com.airbnb.lottie.LottieAnimationView
+                    android:id="@+id/lottie_month"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="@dimen/common_dimens_2dp"/>
+
+            </FrameLayout>-->
+
+            <TextView
+                android:id="@+id/tv_month_discount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="@dimen/common_text_size_9sp"
+                android:paddingBottom="@dimen/common_dimens_3dp"
+                android:paddingTop="@dimen/common_dimens_3dp"
+                android:paddingLeft="@dimen/common_dimens_8dp"
+                android:paddingStart="@dimen/common_dimens_8dp"
+                android:paddingRight="@dimen/common_dimens_8dp"
+                android:paddingEnd="@dimen/common_dimens_8dp"
+                android:background="@drawable/shape_sub_ratio_bg"
+                android:visibility="gone"
+                tools:text="70% OFF"/>
+
+        </FrameLayout>
+
+
+        <FrameLayout
+            android:layout_width="@dimen/common_dimens_100dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="@dimen/common_dimens_8dp"
+            android:layout_marginLeft="@dimen/common_dimens_8dp"
+            android:layout_marginEnd="@dimen/common_dimens_8dp"
+            android:layout_marginRight="@dimen/common_dimens_8dp">
+
+            <LinearLayout
+                android:id="@+id/ll_year"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/common_dimens_148dp"
+                android:orientation="vertical"
+                android:background="@drawable/shape_no_subscript_bg">
+
+                <TextView
+                    android:id="@+id/tv_year"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/common_dimens_31dp"
+                    android:text="@string/string_year"
+                    android:textColor="@color/color_ff3963"
+                    android:textSize="@dimen/common_text_size_18sp"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/common_dimens_9dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/tv_year_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="@dimen/common_dimens_5dp"
+                        android:textSize="@dimen/common_text_size_25sp"
+                        android:textColor="@color/color_030303"
+                        android:maxLines="1"
+                        tools:text="99.9"/>
+
+                    <TextView
+                        android:id="@+id/tv_year_unit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="@dimen/common_dimens_5dp"
+                        android:text="$"
+                        android:textSize="@dimen/common_text_size_14sp"
+                        android:textColor="@color/color_030303"/>
+
+
+
+                </LinearLayout>
+
+                <!--<TextView
+                    android:id="@+id/tv_origin_year_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/common_dimens_15dp"
+                    android:layout_marginBottom="@dimen/common_dimens_24dp"
+                    android:visibility="gone"
+                    android:textColor="@color/color_999999"
+                    android:textSize="@dimen/common_text_size_14sp"
+                    android:text="$ 125.9"/>-->
+
+            </LinearLayout>
+
+            <!--<FrameLayout
+                android:id="@+id/fl_year_lottie"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/common_dimens_155dp"
+                android:layout_marginTop="@dimen/common_dimens_8dp"
+                android:background="@drawable/shape_no_subscript_bg"
+                android:visibility="gone">
+
+                <com.airbnb.lottie.LottieAnimationView
+                    android:id="@+id/lottie_year"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="@dimen/common_dimens_2dp"/>
+
+            </FrameLayout>-->
+
+            <TextView
+                android:id="@+id/tv_year_discount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="@dimen/common_text_size_9sp"
+                android:paddingBottom="@dimen/common_dimens_3dp"
+                android:paddingTop="@dimen/common_dimens_3dp"
+                android:paddingLeft="@dimen/common_dimens_8dp"
+                android:paddingStart="@dimen/common_dimens_8dp"
+                android:paddingRight="@dimen/common_dimens_8dp"
+                android:paddingEnd="@dimen/common_dimens_8dp"
+                android:background="@drawable/shape_sub_ratio_bg"
+                android:visibility="gone"
+                tools:text="70% OFF"/>
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <!--<com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_dimens_155dp"
+        android:layout_marginTop="@dimen/common_dimens_8dp"
+        android:id="@+id/lottie_load"/>-->
+
+</FrameLayout>

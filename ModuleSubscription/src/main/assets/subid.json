@@ -1,0 +1,20 @@
+[
+  {
+    "subId":"doodle_camera_01",
+    "price_discount":70,
+    "select_status": true,
+    "subPrice": ""
+  },
+  {
+    "subId":"doodle_camera_03",
+    "price_discount":0,
+    "select_status": false,
+    "subPrice": ""
+  },
+  {
+    "subId":"doodle_camera_02",
+    "price_discount":0,
+    "select_status": false,
+    "subPrice": ""
+  }
+]

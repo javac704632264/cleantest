@@ -1,0 +1,104 @@
+<resources>
+
+    <string name="sub_title">Fitur Premium SHAREit</string>
+
+    <string name="purchase_fail">Pembelian gagal</string>
+    <string name="purchase_user_cancel">Pembayaran dibatalkan</string>
+    <string name="purchase_gp_service_not_available">Google Play Service tidak tersedia</string>
+    <string name="purchase_already_owned">Sudah berlangganan, tidak perlu berlangganan lagi</string>
+
+    <string name="sub_year_peroidd">Tahun</string>
+    <string name="sub_half_year">Setengah tahun</string>
+    <string name="sub_month_periodd">Bulan</string>
+    <string name="sub_three_month">3 bulan</string>
+    <string name="sub_week">Minggu</string>
+
+    <string name="sub_benefit_no_ad">Tidak ada iklan</string>
+
+    <string name="sub_trail_buy">COBA GRATIS SELAMA %1$s HARI</string>
+
+    <string name="sub_trail_direct_buy">UPGRADE</string>
+
+    <string name="sub_restore">PULIHKAN</string>
+
+    <string name="sub_retain_giveup">Tinggalkan</string>
+
+    <string name="sub_successfully">DENGAN SUKSES!</string>
+
+    <string name="sub_give_up_discount">Tinggalkan diskon?</string>
+
+
+    <string name="sub_restore_status_success">Status berlangganan diperbarui!</string>
+    <string name="sub_restore_status_fail">Akun yang sekarang tidak berlangganan, silakan beralih ke akun Google dan coba lagi</string>
+
+    <string name="sub_off">diskon</string>
+
+    <string name="sub_giveup_discount">HEMAT %1$s</string>
+
+    <string name="sub_no_gp_service_hint">Tidak dapat terhubung ke Google Play Service</string>
+
+    <string name="sub_pay_failed">PENINGKATAN GAGAL</string>
+    <string name="sub_pay_failed_desc">Gagal membuka kunci fitur premium.</string>
+
+    <string name="sub_success_thank_new">Terima kasih atas dukungan Anda. Anda sekarang bisa menikmati semua fitur VIP.</string>
+    <string name="sub_loading">Paket Premium Sailfish \n dimuat…</string>
+    <string name="sub_title_new">Tingkatkan ke VIP</string>
+    <string name="sub_detail_desc_1">Buka kunci semua fitur VIP sekarang</string>
+    <string name="sub_detail_desc_2">Anda bisa batalkan kapan saja di Google Play</string>
+    <string name="sub_benefit_more_vpn">Lebih banyak node server vpn</string>
+    <string name="sub_benefit_unlimited">Traffic tidak terbatas</string>
+    <string name="sub_benefit_safe">Perlindungan privasi</string>
+    <string name="sub_benefit_ai">rekomendasi saluran ai</string>
+    <string name="sub_buy_price">kemudian %1$s</string>
+
+    <string name="sub_success_dialog_thank">Kami menghargai dukungan Anda, semua fitur premium sekarang tersedia.</string>
+
+    <string name="sub_benefit_unlimited_time">Waktu koneksi tak terbatas</string>
+    <string name="sub_purchased_to_connect">Hubungkan VPN</string>
+
+    <string name="sub_tip_1">sembunyikan alamat IP</string>
+    <string name="sub_tip_2">Kecepatan 10x lebih cepat</string>
+    <string name="sub_tip_3">100% tanpa iklan</string>
+    <string name="sub_tip_4">100+ lokasi VIP</string>
+    <string name="sub_tip_5">video HD kapan saja</string>
+    <string name="sub_tip_6">∞+ waktu koneksi</string>
+    <string name="sub_tip_7">rekomendasi saluran ai</string>
+
+
+    <string name="string_pro_experience">Kerahkan kreativitasmu dengan pengalaman PRO</string>
+    <string name="string_remove_ads">Hilangkan iklan</string>
+    <string name="string_generate_infinite">Generate infinitely</string>
+    <string name="string_week">1 Minggu</string>
+    <string name="string_month">1 Bulan</string>
+    <string name="string_year">1 Tahun</string>
+    <string name="string_continue">Lanjutkan</string>
+    <string name="string_restore">Pulihkan</string>
+    <string name="string_off">POTONGAN %s</string>
+    <string name="string_start_generate">Mulai Membuat secara Tak Terbatas</string>
+    <string name="string_renew">Perpanjang</string>
+    <string name="sub_trial_description_new">Setelah uji coba gratis, langganan akan secara otomatis diperpanjang menjadi langganan tahunan seharga %1$s. Anda bisa membatalkan kapan saja dari Google Play.</string>
+    <string name="string_open_unlock">Berlangganan untuk membuka akses pembuatan avatar tak terbatas</string>
+    <string name="string_premium_plan">Paket Doodle Camera Premium sedang memuat</string>
+    <string name="string_successfully">Berhasil!</string>
+    <string name="string_premium_success">Terima kasih atas dukungan Anda, semua fitur premium sudah terbuka.</string>
+    <string name="string_ok">OK</string>
+    <string name="string_upgrade_failed">Upgrade Gagal</string>
+    <string name="string_failed_premium">Gagal membuka kunci fitur premium.</string>
+    <string name="string_give_up">Tinggalkan</string>
+    <string name="string_give_up_discount">Tinggalkan diskon?</string>
+    <string name="string_save">HEMAT %s</string>
+    <string name="string_cancel">Batal</string>
+    <string name="string_user_agreement">Perjanjian Pengguna</string>
+
+    <string name="string_unlock_templates">Nikmati Kreativitas Tanpa Batas</string>
+    <string name="string_unlimited_downloads">Unduh gambar-gambar indah tanpa batas, nikmati keindahan HD</string>
+    <string name="string_more_avatars">Buat avatar digital secara tak terbatas.</string>
+    <string name="string_all_templates">Semua template</string>
+    <string name="string_image_downloads">Unduh gambar</string>
+    <string name="string_create_avatars">Buat avatar</string>
+    <string name="string_digital_twin">Sisa Digital Twin: %s</string>
+    <string name="string_privacy_policy">Kebijakan Privasi</string>
+    <string name="string_select_vip">Memilih berlangganan VIP berarti Anda setuju dengan %1$s dan %2$s kami.</string>
+    <string name="string_sub_tip">Berlangganan berlaku otomatis. Anda dapat membatalkan berlangganan kapan saja. </string>
+    <string name="string_sub_plan_error">Gagal mengambil data.</string>
+</resources>

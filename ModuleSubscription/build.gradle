@@ -1,0 +1,69 @@
+plugins {
+    id 'com.android.library'
+//    id("kotlin-parcelize")
+    id 'org.jetbrains.kotlin.android'
+}
+
+android {
+//    namespace 'com.sailfish.subscription'
+    compileSdkVersion 31
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 31
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles "consumer-rules.pro"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+
+dependencies {
+
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+//    api zeus.modules.middleground.SDKBaseCore
+//    api zeus.modules.middleground.SDKToolsKit
+
+//    api project(':BaseSDK:SdkBiz')
+
+//    api project(':BaseSDK:SdkFrame')
+
+//    api zeus.modules.middleground.SDKBeyla
+//    api zeus.modules.middleground.SDKHybrid
+//    api project(":BaseSDK:SdkStarter")
+
+//    api project(':BizBasic:ModuleSubscriptionApi')
+//    api project(':AppApi')
+//    api project(":BizBasic:ModuleFeedbackApi")
+
+    api 'com.android.billingclient:billing:5.0.0'
+    implementation 'com.doodlecamera:sdkbasecore:1.0.62'
+    implementation 'com.doodlecamera:sdkwidget:0.9.21'
+    implementation 'com.doodlecamera:sdkframe:0.9.12'
+    implementation 'com.google.firebase:firebase-analytics:21.2.0'
+    implementation 'com.doodlecamera:sdkpromotion:1.0.34'
+    implementation 'androidx.core:core-ktx:1.5.0'
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'com.doodlecamera:sdkhybrid:1.1.82'
+//    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+
+//    implementation project(path: ':BaseSDK:SdkWidget')
+//    implementation project(path: ':BaseSDK:SdkFrame')
+//    implementation project(path: ':Tools')
+}

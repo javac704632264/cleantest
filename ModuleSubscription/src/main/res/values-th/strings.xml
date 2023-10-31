@@ -1,0 +1,36 @@
+<resources>
+    <string name="string_unlock_templates">ความสนุกในการสร้างเทมเพลตไร้ขีดจำกัด</string>
+    <string name="string_unlimited_downloads">ดาวน์โหลดรูปภาพที่ยอดเยี่ยมไม่จำกัด ต้อนรับความหรูหราใน HD</string>
+    <string name="string_more_avatars">สร้างอวาตาร์ดิจิตอลไร้ขีดจำกัด</string>
+    <string name="string_all_templates">เทมเพลตทั้งหมด</string>
+    <string name="string_image_downloads">ดาวน์โหลดรูปภาพ</string>
+    <string name="string_create_avatars">สร้างอวาตาร์</string>
+    <string name="string_digital_twin">ความซ้ำรูปแบบทางดิจิตอลที่เหลืออยู่: %s</string>
+    <string name="string_privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="string_select_vip">การเลือกสมัครสมาชิก VIP หมายความว่าคุณยินยอมกับ %1$s และ %2$s ของเรา</string>
+    <string name="string_pro_experience">ปล่อยความคิดสร้างสรรค์ของคุณพร้อมกับประสบการณ์ PRO</string>
+    <string name="string_generate_infinite">สร้างไร้ขีดจำกัด</string>
+    <string name="string_week">1 สัปดาห์</string>
+    <string name="string_month">1 เดือน</string>
+    <string name="string_year">1 ปี</string>
+    <string name="string_continue">ดำเนินการต่อ</string>
+    <string name="string_restore">กู้คืน</string>
+    <string name="string_off">%s ส่วนลด</string>
+    <string name="string_start_generate">เริ่มสร้างไร้ขีดจำกัด</string>
+    <string name="string_renew">ต่ออายุ</string>
+    <string name="sub_trial_description_new">หลังจากการทดลองใช้งานฟรี การสมัครสมาชิกจะเรียกเก็บเงินโดยอัตโนมัติสำหรับ%1$s คุณสามารถยกเลิกได้จาก Google Play ทุกเมื่อ</string>
+    <string name="string_open_unlock">สมัครสมาชิกเพื่อปลดล็อกการสร้างอวาตาร์ไร้ขีดจำกัด</string>
+    <string name="string_premium_plan">กำลังโหลดแผน Doodle Camera พรีเมียม</string>
+    <string name="string_successfully">สำเร็จแล้ว!</string>
+    <string name="string_premium_success">ขอบคุณสำหรับการสนับสนุน คุณเปิดใช้งานคุณสมบัติพรีเมียมทั้งหมด</string>
+    <string name="string_ok">ตกลง</string>
+    <string name="string_upgrade_failed">การอัปเกรดล้มเหลว</string>
+    <string name="string_failed_premium">ไม่สามารถปลดล็อกคุณสมบัติพรีเมียมได้</string>
+    <string name="string_give_up">ยกเลิก</string>
+    <string name="string_give_up_discount">ยกเลิกส่วนลด?</string>
+    <string name="string_save">ประหยัด %s</string>
+    <string name="string_cancel">ยกเลิก</string>
+    <string name="string_user_agreement">ข้อตกลงของผู้ใช้</string>
+    <string name="string_sub_plan_error">ไม่สามารถดึงข้อมูลได้</string>
+    <string name="string_sub_tip">การสมัครสมาชิกเป็นการต่ออายุอัตโนมัติ คุณสามารถยกเลิกการสมัครสมาชิกได้ทุกเมื่อ</string>
+</resources>

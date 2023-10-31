@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="sub_title">Mga Feature ng SailfishVPN Premium</string>
+
+    <string name="purchase_fail">Nabigo ang pagbili</string>
+    <string name="purchase_user_cancel">Kinansela ang pagbabayad</string>
+    <string name="purchase_gp_service_not_available">Hindi available ang Serbsiyo ng Google Play</string>
+    <string name="purchase_already_owned">Naka-subscribe na, hindi na kailangang mag-subscribe muli</string>
+
+    <string name="sub_year_peroidd">Taon</string>
+    <string name="sub_half_year">Kalahating taon</string>
+    <string name="sub_month_periodd">Buwan</string>
+    <string name="sub_three_month">3 buwan</string>
+    <string name="sub_week">Linggo</string>
+
+    <string name="sub_benefit_no_ad">Walang mga ad</string>
+
+    <string name="sub_trail_buy">LIBRENG TRIAL SA LOOB NG %1$s ARAW</string>
+
+    <string name="sub_trail_direct_buy">I-UPGRADE</string>
+
+    <string name="sub_restore">I-RESTORE</string>
+
+    <string name="sub_retain_giveup">Mag-give up</string>
+
+    <string name="sub_successfully">MATAGUMPAY!</string>
+
+    <string name="sub_give_up_discount">I-give up ang diskwento?</string>
+
+
+    <string name="sub_restore_status_success">Na-update ang katayuan ng subscription!</string>
+    <string name="sub_restore_status_fail">Hindi naka-subscribe ang kasalukuyang account, mangyaring mag-switch sa Google account at subukang muli</string>
+
+    <string name="sub_off">i-off</string>
+
+    <string name="sub_giveup_discount">I-SAVE %1$s</string>
+
+    <string name="sub_no_gp_service_hint">Hindi makakonekta sa Google Play Service</string>
+
+    <string name="sub_pay_failed">NABIGO ANG PAG-UPGRADE</string>
+    <string name="sub_pay_failed_desc">Nabigong i-unlock ang mga premium na feature.</string>
+    <string name="sub_success_thank_new">Salamat sa iyong suporta, Mae-enjoy mo na ngayon ang lahat ng tampok ng VIP.</string>
+    <string name="sub_loading">Naglo-load ang Sailfish VPN Premium plan...</string>
+    <string name="sub_title_new">Mag-upgrade sa VIP</string>
+    <string name="sub_detail_desc_1">I-unlock ngayon lahat ng mga tampok ng VIP</string>
+    <string name="sub_detail_desc_2">Maaari mong ikansela sa Google Play anumang oras</string>
+    <string name="sub_benefit_more_vpn">Marami pang mga vpn server node</string>
+    <string name="sub_benefit_unlimited">Walang limitasyong trapiko</string>
+    <string name="sub_benefit_safe">Proteksyon ng Privacy</string>
+    <string name="sub_benefit_ai">ai channel rekomendasyon</string>
+    <string name="sub_buy_price">tapos %1$s</string>
+    <string name="sub_success_dialog_thank">Kinalulugod namin ang iyong suporta, available na ngayon ang lahat ng mga tampok ng premium.</string>
+
+    <string name="sub_benefit_unlimited_time">Walang limitasyon na oras ng koneksyon</string>
+    <string name="sub_purchased_to_connect">Ikonekta ang VPN</string>
+
+    <string name="sub_tip_1">Itago ang ang IP address</string>
+    <string name="sub_tip_2">10x/beses na mabilis</string>
+    <string name="sub_tip_3">100% na walang ads</string>
+    <string name="sub_tip_4">100+ VIP na lokasyon</string>
+    <string name="sub_tip_5">HD videos kahit anong oras</string>
+    <string name="sub_tip_6">∞+ ang connection na oras</string>
+    <string name="sub_tip_7">AI channel na rekomendasyon</string>
+</resources>

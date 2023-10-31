@@ -1,0 +1,37 @@
+<resources>
+    <string name="string_unlock_templates">無限制模板創意享受</string>
+    <string name="string_unlimited_downloads">無限下載精美圖片，盡情擁抱高清優雅</string>
+    <string name="string_more_avatars">無限創建數碼化身</string>
+    <string name="string_all_templates">所有模板</string>
+    <string name="string_image_downloads">圖片下載</string>
+    <string name="string_create_avatars">創建數碼化身</string>
+    <string name="string_digital_twin">剩餘數碼孿生體：%s</string>
+    <string name="string_privacy_policy">隱私政策</string>
+    <string name="string_select_vip">選擇 VIP 訂閱即表示您同意我們的 %1$s 和 %2$s。</string>
+    <string name="string_pro_experience">解放您的創意，體驗PRO體驗</string>
+    <string name="string_generate_infinite">無限生成</string>
+    <string name="string_week">1週</string>
+    <string name="string_month">1個月</string>
+    <string name="string_year">1年</string>
+    <string name="string_continue">繼續</string>
+    <string name="string_restore">恢復</string>
+    <string name="string_off">%s折扣</string>
+    <string name="string_start_generate">開始無限生成</string>
+    <string name="string_renew">續訂</string>
+    <string name="sub_trial_description_new">免費試用後，訂閱將自動延長至%1$s的訂閱。您可以隨時在Google Play上取消。</string>
+    <string name="string_open_unlock">訂閱以解鎖無限數碼化身創建</string>
+    <string name="string_premium_plan">Doodle Camera高級計劃正在載入中</string>
+    <string name="string_successfully">成功！</string>
+    <string name="string_premium_success">感謝您的支持，所有高級功能已釋放。</string>
+    <string name="string_ok">確定</string>
+    <string name="string_upgrade_failed">升級失敗</string>
+    <string name="string_failed_premium">無法解鎖高級功能。</string>
+    <string name="string_give_up">放棄</string>
+    <string name="string_give_up_discount">放棄折扣？</string>
+    <string name="string_save">節省%s</string>
+    <string name="string_cancel">取消</string>
+    <string name="string_user_agreement">用戶協議</string>
+    <string name="string_sub_plan_error">無法取得數據</string>
+    <string name="string_sub_tip">訂閱將自動續訂。您可以隨時取消訂閱。</string>
+
+</resources>

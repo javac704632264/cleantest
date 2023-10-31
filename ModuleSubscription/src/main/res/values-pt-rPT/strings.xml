@@ -1,0 +1,37 @@
+<resources>
+    <string name="string_pro_experience">Desperte sua criatividade com a experiência PRO</string>
+    <string name="string_generate_infinite">Gerar infinitamente</string>
+    <string name="string_week">1 Semana</string>
+    <string name="string_month">1 Mês</string>
+    <string name="string_year">1 Ano</string>
+    <string name="string_continue">Continuar</string>
+    <string name="string_restore">Restaurar</string>
+    <string name="string_off">%s DE DESCONTO</string>
+    <string name="string_start_generate">Começando a Gerar Infinitamente</string>
+    <string name="string_renew">Renovar</string>
+    <string name="sub_trial_description_new">A assinatura será renovada automaticamente para %1$s. Você pode cancelá-lo a qualquer momento no Google Play.</string>
+    <string name="string_open_unlock">Assine para desbloquear criações infinitas de avatares</string>
+    <string name="string_premium_plan">O plano Premium da Câmera Doodle está carregando</string>
+    <string name="string_successfully">Com sucesso!</string>
+    <string name="string_premium_success">Obrigado pelo seu apoio, todos os recursos premium foram liberados.</string>
+    <string name="string_ok">OK</string>
+    <string name="string_upgrade_failed">Falha na atualização</string>
+    <string name="string_failed_premium">Falha ao desbloquear recursos premium.</string>
+    <string name="string_give_up">Desistir</string>
+    <string name="string_give_up_discount">Desistir do desconto?</string>
+    <string name="string_save">ECONOMIZE %s</string>
+    <string name="string_cancel">Cancelar</string>
+    <string name="string_user_agreement">Acordos do Usuário</string>
+
+    <string name="string_unlock_templates">Desfrute da Criatividade Ilimitada com Modelos</string>
+    <string name="string_unlimited_downloads">Downloads Ilimitados de Imagens Exquisitas, Abraçando a Elegância HD</string>
+    <string name="string_more_avatars">Crie avatares digitais infinitamente.</string>
+    <string name="string_all_templates">Todos os Modelos</string>
+    <string name="string_image_downloads">Downloads de Imagens</string>
+    <string name="string_create_avatars">Criar avatares</string>
+    <string name="string_digital_twin">Gêmeo Digital Restante: %s</string>
+    <string name="string_privacy_policy">Política de Privacidade</string>
+    <string name="string_select_vip">Ao selecionar a subscrição VIP, está a concordar com os nossos %1$s e %2$s.</string>
+    <string name="string_sub_tip">A subscrição é renovada automaticamente. Pode cancelar a subscrição a qualquer momento. </string>
+    <string name="string_sub_plan_error">Não foi possível obter os dados</string>
+</resources>

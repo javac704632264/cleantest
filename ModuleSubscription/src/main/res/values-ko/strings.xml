@@ -1,0 +1,36 @@
+<resources>
+    <string name="string_unlock_templates">무제한 템플릿 창작 즐거움</string>
+    <string name="string_unlimited_downloads">고화질 이미지의 무제한 다운로드, HD 우아함을 누리세요</string>
+    <string name="string_more_avatars">무한한 디지털 아바타 생성</string>
+    <string name="string_all_templates">모든 템플릿</string>
+    <string name="string_image_downloads">이미지 다운로드</string>
+    <string name="string_create_avatars">아바타 생성</string>
+    <string name="string_digital_twin">남은 디지털 트윈: %s</string>
+    <string name="string_privacy_policy">개인정보 처리방침</string>
+    <string name="string_select_vip">VIP 구독을 선택하면 %1$s 및 %2$s에 동의하는 것입니다.</string>
+    <string name="string_pro_experience">PRO 경험으로 창의력 해방</string>
+    <string name="string_generate_infinite">무한 생성</string>
+    <string name="string_week">1주일</string>
+    <string name="string_month">1개월</string>
+    <string name="string_year">1년</string>
+    <string name="string_continue">계속하기</string>
+    <string name="string_restore">복원</string>
+    <string name="string_off">%s 할인</string>
+    <string name="string_start_generate">무한 생성 시작</string>
+    <string name="string_renew">갱신</string>
+    <string name="sub_trial_description_new">무료 평가판 이후 구독은 자동으로 %1$s 구독으로 연장됩니다. Google Play에서 언제든지 취소할 수 있습니다.</string>
+    <string name="string_open_unlock">무제한 아바타 생성 잠금 해제하기 위해 구독</string>
+    <string name="string_premium_plan">Doodle Camera 프리미엄 계획 로딩 중</string>
+    <string name="string_successfully">성공적으로!</string>
+    <string name="string_premium_success">지원해 주셔서 감사합니다. 모든 프리미엄 기능이 공개되었습니다.</string>
+    <string name="string_ok">확인</string>
+    <string name="string_upgrade_failed">업그레이드 실패</string>
+    <string name="string_failed_premium">프리미엄 기능 잠금 해제 실패</string>
+    <string name="string_give_up">포기</string>
+    <string name="string_give_up_discount">할인 포기하시겠습니까?</string>
+    <string name="string_save">%s 저장</string>
+    <string name="string_cancel">취소</string>
+    <string name="string_user_agreement">사용자 동의</string>
+    <string name="string_sub_plan_error">데이터를 가져올 수 없습니다</string>
+    <string name="string_sub_tip">구독은 자동 갱신됩니다. 언제든지 구독을 취소할 수 있습니다.</string>
+</resources>

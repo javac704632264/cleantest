@@ -1,0 +1,65 @@
+<resources>
+
+    <string name="sub_title">Премиальные функции SailfishVPN</string>
+
+    <string name="purchase_fail">Покупка не состоялась</string>
+    <string name="purchase_user_cancel">Платеж отменен</string>
+    <string name="purchase_gp_service_not_available">Служба Google Play недоступна</string>
+    <string name="purchase_already_owned">Вы уже подписаны, повторная подписка не требуется</string>
+
+    <string name="sub_year_peroidd">Год</string>
+    <string name="sub_half_year">Полгода</string>
+    <string name="sub_month_periodd">Месяц</string>
+    <string name="sub_three_month">3 месяца</string>
+    <string name="sub_week">Неделя</string>
+
+    <string name="sub_benefit_no_ad">Без рекламы</string>
+
+    <string name="sub_trail_buy">БЕСПЛАТНАЯ ПРОБНАЯ ПОДПИСКА НА %1$s ДН.</string>
+
+    <string name="sub_trail_direct_buy">ОБНОВИТЬ</string>
+
+    <string name="sub_restore">ВОЗОБНОВИТЬ</string>
+
+    <string name="sub_retain_giveup">Отказаться</string>
+
+    <string name="sub_successfully">УСПЕШНО!</string>
+
+    <string name="sub_give_up_discount">Отказаться от скидки?</string>
+
+
+    <string name="sub_restore_status_success">Подписка обновлена!</string>
+    <string name="sub_restore_status_fail">Для текущей учетной записи нет подписки. Перейдите в учетную запись Google и повторите попытку</string>
+
+    <string name="sub_off">минус</string>
+
+    <string name="sub_giveup_discount">ЭКОНОМИЯ %1$s</string>
+
+    <string name="sub_no_gp_service_hint">Невозможно подключиться к службе Google Play</string>
+
+    <string name="sub_pay_failed">ОШИБКА ОБНОВЛЕНИЯ</string>
+    <string name="sub_pay_failed_desc">Не удалось получить доступ к премиальным функциям.</string>
+
+    <string name="sub_success_thank_new">Спасибо за поддержку. Теперь вам доступны все функции VIP.</string>
+    <string name="sub_loading">Загружается план \n SailfishVPN Premium…</string>
+    <string name="sub_title_new">Повысить до VIP</string>
+    <string name="sub_detail_desc_1">Разблокировать все функции VIP</string>
+    <string name="sub_detail_desc_2">Отменить можно в любое время из Google Play</string>
+    <string name="sub_benefit_more_vpn">Дополнительные серверы VPN</string>
+    <string name="sub_benefit_unlimited">Безлимитный трафик</string>
+    <string name="sub_benefit_safe">Защита конфиденциальности</string>
+    <string name="sub_benefit_ai">рекомендация канала ай</string>
+    <string name="sub_buy_price">затем %1$s</string>
+    <string name="sub_success_dialog_thank">Благодарим вас, теперь все премиальные функции разблокированы.</string>
+
+    <string name="sub_benefit_unlimited_time">Безлимитное время соединения</string>
+    <string name="sub_purchased_to_connect">Подключить VPN</string>
+
+    <string name="sub_tip_1">скрыть IP-адрес</string>
+    <string name="sub_tip_2">Скорость в 10 раз выше</string>
+    <string name="sub_tip_3">100% без рекламы</string>
+    <string name="sub_tip_4">100+ VIP расположение</string>
+    <string name="sub_tip_5">HD-видео в любое время</string>
+    <string name="sub_tip_6">∞+ время подключения</string>
+    <string name="sub_tip_7">рекомендация каналов ai</string>
+</resources>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sub_color_black2"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/sub_back_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="@dimen/common_dimens_20dp"
+        android:paddingStart="@dimen/common_dimens_20dp"
+        android:paddingEnd="@dimen/common_dimens_20dp"
+        android:src="@drawable/sub_back" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/sub_color_black2"
+            android:orientation="vertical"
+            android:paddingStart="@dimen/common_dimens_20dp"
+            android:paddingEnd="@dimen/common_dimens_20dp">
+
+            <ImageView
+                android:id="@+id/sub_premium_iv"
+                android:layout_width="@dimen/common_dimens_44dp"
+                android:layout_height="@dimen/common_dimens_44dp"
+                android:layout_marginTop="@dimen/common_dimens_17dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/sub_premium_logo"
+                app:layout_constraintBottom_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+            <TextView
+                android:id="@+id/sub_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/common_dimens_12dp"
+                android:text="@string/sub_title"
+                android:textColor="@color/color_f2c38b"
+                android:textSize="@dimen/common_text_size_24sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/sub_premium_iv" />
+
+            <TextView
+                android:id="@+id/sub_detail_desc_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/common_dimens_12dp"
+                android:text="@string/sub_success_thank_new"
+                android:textColor="@color/color_8b8da1"
+                android:textSize="@dimen/common_text_size_14sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/sub_title" />
+
+            <LinearLayout
+                android:id="@+id/sub_benefit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/sub_detail_desc_1">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recycler_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/common_dimens_150dp"
+                    android:layout_marginTop="@dimen/common_dimens_28dp"
+                    android:paddingStart="@dimen/common_dimens_20dp"
+                    android:paddingEnd="@dimen/common_dimens_20dp" />
+
+                <com.ai.subscription.ui.DotsView
+                    android:id="@+id/dots_view"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/sub_connect_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/common_dimens_54dp"
+                android:background="@drawable/sub_buy_bg"
+                android:gravity="center"
+                android:text="@string/sub_purchased_to_connect"
+                android:textColor="@color/color_60361d"
+                android:textSize="@dimen/common_text_size_13sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/sub_benefit" />
+
+            <TextView
+                android:id="@+id/sub_restore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/common_dimens_28dp"
+                android:gravity="center"
+                android:text="@string/sub_restore"
+                android:textColor="#ff5a5b5f"
+                android:textSize="@dimen/common_text_size_10sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/sub_connect_tv" />
+
+            <TextView
+                android:id="@+id/sub_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/common_dimens_42dp"
+                android:layout_marginBottom="@dimen/common_dimens_20dp"
+                android:text="@string/sub_trial_description_new"
+                android:textAlignment="center"
+                android:textColor="@color/sub_user_agrrement"
+                android:textSize="@dimen/common_text_size_9sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/sub_restore"
+                app:layout_constraintVertical_bias="1.0" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</LinearLayout>

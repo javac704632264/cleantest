@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/SubGiveupDialogStyle"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:ignore="MissingDefaultResource,ResourceName">
+
+    <LinearLayout
+        android:id="@+id/container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/common_dimens_20dp"
+        android:layout_marginLeft="@dimen/common_dimens_20dp"
+        android:layout_marginEnd="@dimen/common_dimens_20dp"
+        android:layout_marginRight="@dimen/common_dimens_20dp"
+        android:background="@drawable/give_up_bg"
+        android:orientation="vertical"
+        tools:ignore="MissingDefaultResource,ResourceName">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginStart="@dimen/common_dimens_24dp"
+            android:layout_marginLeft="@dimen/common_dimens_24dp"
+            android:layout_marginTop="@dimen/common_dimens_70dp"
+            android:layout_marginEnd="@dimen/common_dimens_24dp"
+            android:layout_marginRight="@dimen/common_dimens_24dp"
+            android:maxLines="2"
+            android:text="@string/sub_give_up_discount"
+            android:textAlignment="center"
+            android:textColor="#60361D"
+            android:textDirection="locale"
+            android:textSize="@dimen/common_text_size_20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/sub_giveup_discount_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginStart="@dimen/common_dimens_22dp"
+            android:layout_marginLeft="@dimen/common_dimens_22dp"
+            android:layout_marginTop="@dimen/common_dimens_34dp"
+            android:layout_marginEnd="@dimen/common_dimens_22dp"
+            android:layout_marginRight="@dimen/common_dimens_22dp"
+            android:gravity="center"
+            android:maxLines="2"
+            android:text="@string/sub_giveup_discount"
+            android:textColor="#EC4C24"
+            android:textDirection="locale"
+            android:textSize="@dimen/common_text_size_50sp"
+            android:textStyle="bold"
+            tools:text="SAVE 80%" />
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/sub_view_bg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/common_dimens_24dp"
+            android:layout_marginLeft="@dimen/common_dimens_24dp"
+            android:layout_marginTop="@dimen/common_dimens_29dp"
+            android:layout_marginEnd="@dimen/common_dimens_24dp"
+            android:layout_marginRight="@dimen/common_dimens_24dp"
+            android:background="@drawable/sub_fail_free_btn_bg"
+            android:clickable="false"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingVertical="@dimen/common_dimens_6dp">
+
+            <TextView
+                android:id="@+id/sub_buy_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:paddingHorizontal="@dimen/common_dimens_20dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/sub_trail_buy"
+                android:textColor="#FFE5B3"
+                android:textSize="@dimen/common_text_size_14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/sub_buy_price_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingHorizontal="@dimen/common_dimens_20dp"
+                android:layout_marginTop="@dimen/common_dimens_1dp"
+                android:textColor="#FFE5B3"
+                android:textSize="@dimen/common_text_size_9sp"
+                tools:text="$4.99/YEAR" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <TextView
+            android:id="@+id/sub_giveup_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/common_dimens_15dp"
+            android:gravity="center"
+            android:text="@string/sub_retain_giveup"
+            android:textColor="#60361D"
+            android:textDirection="locale"
+            android:textSize="@dimen/common_text_size_14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/sub_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginStart="@dimen/common_dimens_24dp"
+            android:layout_marginLeft="@dimen/common_dimens_24dp"
+            android:layout_marginTop="@dimen/common_dimens_25dp"
+            android:layout_marginEnd="@dimen/common_dimens_24dp"
+            android:layout_marginRight="@dimen/common_dimens_24dp"
+            android:layout_marginBottom="@dimen/common_dimens_20dp"
+            android:text="@string/sub_trial_description_new"
+            android:textAlignment="center"
+            android:textColor="#8060361D"
+            android:textDirection="locale"
+            android:textSize="@dimen/common_text_size_9sp" />
+    </LinearLayout>
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/container"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-50dp"
+        android:src="@drawable/give_up_header_image" />
+</RelativeLayout>

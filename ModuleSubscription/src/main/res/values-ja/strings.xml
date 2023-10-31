@@ -1,0 +1,36 @@
+<resources>
+    <string name="string_unlock_templates">無制限のテンプレート創造楽しみ</string>
+    <string name="string_unlimited_downloads">高品質な画像の無制限のダウンロード、HDのエレガンスを楽しむ</string>
+    <string name="string_more_avatars">デジタルアバターを無限に生成</string>
+    <string name="string_all_templates">すべてのテンプレート</string>
+    <string name="string_image_downloads">画像のダウンロード</string>
+    <string name="string_create_avatars">アバターを作成</string>
+    <string name="string_digital_twin">残りのデジタルツイン：%s</string>
+    <string name="string_privacy_policy">プライバシーポリシー</string>
+    <string name="string_select_vip">VIPサブスクリプションを選択することは、%1$s と %2$s に同意することを意味します。</string>
+    <string name="string_pro_experience">PROの体験で創造力を解放</string>
+    <string name="string_generate_infinite">無限に生成</string>
+    <string name="string_week">1週間</string>
+    <string name="string_month">1ヶ月</string>
+    <string name="string_year">1年</string>
+    <string name="string_continue">続ける</string>
+    <string name="string_restore">元に戻す</string>
+    <string name="string_off">%s OFF</string>
+    <string name="string_start_generate">無限に生成を開始</string>
+    <string name="string_renew">更新</string>
+    <string name="sub_trial_description_new">無料トライアル後、購読は自動的に%1$sの購読に延長されます。いつでもGoogle Playからキャンセルできます。</string>
+    <string name="string_open_unlock">無制限のアバター作成を解除するために購読</string>
+    <string name="string_premium_plan">Doodle Cameraプレミアムプランをロード中</string>
+    <string name="string_successfully">成功しました！</string>
+    <string name="string_premium_success">ご支援いただき、すべてのプレミアム機能が利用可能になりました。</string>
+    <string name="string_ok">OK</string>
+    <string name="string_upgrade_failed">アップグレードに失敗しました</string>
+    <string name="string_failed_premium">プレミアム機能のロック解除に失敗しました。</string>
+    <string name="string_give_up">諦める</string>
+    <string name="string_give_up_discount">割引を諦めますか？</string>
+    <string name="string_save">%sをセーブ</string>
+    <string name="string_cancel">キャンセル</string>
+    <string name="string_user_agreement">ユーザー同意書</string>
+    <string name="string_sub_plan_error">データの取得に失敗しました</string>
+    <string name="string_sub_tip">定期購読は自動更新されます。いつでも購読をキャンセルできます。</string>
+</resources>

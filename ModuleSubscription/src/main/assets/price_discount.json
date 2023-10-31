@@ -1,0 +1,14 @@
+[
+  {
+    "price_discount":"70",
+    "subId":"dream_sub_week"
+  },
+  {
+    "price_discount":"20",
+    "subId":"dream_sub_month"
+  },
+  {
+    "price_discount":"40",
+    "subId":"dream_sub_year"
+  }
+]

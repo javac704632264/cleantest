@@ -1,0 +1,103 @@
+<resources>
+
+    <string name="sub_title">Características Premium de SailfishVPN</string>
+
+    <string name="purchase_fail">Compra fallida</string>
+    <string name="purchase_user_cancel">Se ha cancelado el pago</string>
+    <string name="purchase_gp_service_not_available">Google Play Service no está disponible</string>
+    <string name="purchase_already_owned">Ya suscrito; no es necesario volver a suscribirse</string>
+
+    <string name="sub_year_peroidd">Año</string>
+    <string name="sub_half_year">Medio año</string>
+    <string name="sub_month_periodd">Mes</string>
+    <string name="sub_three_month">3 meses</string>
+    <string name="sub_week">Semana</string>
+
+    <string name="sub_benefit_no_ad">Sin anuncios</string>
+
+    <string name="sub_trail_buy">PRUEBA GRATUITA DURANTE %1$s DÍAS</string>
+
+    <string name="sub_trail_direct_buy">ACTUALIZAR</string>
+
+    <string name="sub_restore">RESTAURAR</string>
+
+    <string name="sub_retain_giveup">Renunciar</string>
+
+    <string name="sub_successfully">¡CORRECTAMENTE!</string>
+
+    <string name="sub_give_up_discount">¿Renunciar al descuento?</string>
+
+
+    <string name="sub_restore_status_success">¡Estado de la suscripción actualizado!</string>
+    <string name="sub_restore_status_fail">La cuenta actual no tiene suscripción; cambie a la cuenta de Google y vuelva a intentarlo</string>
+
+    <string name="sub_off">desactivado</string>
+
+    <string name="sub_giveup_discount">AHORRE %1$s</string>
+
+    <string name="sub_no_gp_service_hint">No se puede conectar a Google Play Service</string>
+
+    <string name="sub_pay_failed">ERROR AL ACTUALIZAR</string>
+    <string name="sub_pay_failed_desc">No se pudieron desbloquear las funciones Premium.</string>
+
+    <string name="sub_success_thank_new">Gracias por su confianza. Ya puede disfrutar de todas las funciones VIP ahora.</string>
+    <string name="sub_loading">El plan SailfishVPN Premium se está cargando…</string>
+    <string name="sub_title_new">Actualizar a VIP</string>
+    <string name="sub_detail_desc_1">Desbloquee todas las funciones VIP ahora mismo</string>
+    <string name="sub_detail_desc_2">Podría cancelar desde Google Play en cualquier momento</string>
+    <string name="sub_benefit_more_vpn">Más nodos de servidor vpn</string>
+    <string name="sub_benefit_unlimited">Tráfico ilimitado</string>
+    <string name="sub_benefit_safe">Protección de privacidad</string>
+    <string name="sub_benefit_ai">ai-kanala rekomendo</string>
+    <string name="sub_buy_price">después, %1$s</string>
+
+    <string name="sub_success_dialog_thank">Agradecemos su apoyo; ya están disponibles todas las características Premium.</string>
+
+    <string name="sub_benefit_unlimited_time">Tiempo de conexión ilimitado</string>
+    <string name="sub_purchased_to_connect">Conectar VPN</string>
+
+    <string name="sub_tip_1">ocultar la dirección IP</string>
+    <string name="sub_tip_2">10 veces más rápido</string>
+    <string name="sub_tip_3">100% libre de anuncios</string>
+    <string name="sub_tip_4">Más de 100 ubicaciones VIP</string>
+    <string name="sub_tip_5">Vídeos HD en cualquier momento</string>
+    <string name="sub_tip_6">∞+ tiempo de conexión</string>
+    <string name="sub_tip_7">recomendación de canales</string>
+
+    <string name="string_pro_experience">Libera tu creatividad con la experiencia PRO</string>
+    <string name="string_generate_infinite">Generar infinitamente</string>
+    <string name="string_week">1 semana</string>
+    <string name="string_month">1 mes</string>
+    <string name="string_year">1 año</string>
+    <string name="string_continue">Continuar</string>
+    <string name="string_restore">Restaurar</string>
+    <string name="string_off">%s DE DESCUENTO</string>
+    <string name="string_start_generate">Comenzando a generar infinitamente</string>
+    <string name="string_renew">Renovar</string>
+    <string name="sub_trial_description_new">La suscripción se extenderá automáticamente a una suscripción de %1$s. Puede cancelarlo desde Google Play en cualquier momento.</string>
+    <string name="string_open_unlock">Suscríbase para desbloquear la creación ilimitada de avatares</string>
+    <string name="string_premium_plan">Cargando el plan premium de Doodle Camera</string>
+    <string name="string_successfully">¡Exitosamente!</string>
+    <string name="string_premium_success">Gracias por su apoyo, se han liberado todas las funciones premium.</string>
+    <string name="string_ok">OK</string>
+    <string name="string_upgrade_failed">Error en la actualización</string>
+    <string name="string_failed_premium">Error al desbloquear funciones premium.</string>
+    <string name="string_give_up">Renunciar</string>
+    <string name="string_give_up_discount">¿Renunciar al descuento?</string>
+    <string name="string_save">AHORRE %s</string>
+    <string name="string_cancel">Cancelar</string>
+    <string name="string_user_agreement">Acuerdos de Usuario</string>
+
+    <string name="string_unlock_templates">Disfrute de la creatividad ilimitada de plantillas</string>
+    <string name="string_unlimited_downloads">Descargas ilimitadas de imágenes exquisitas, abrazando la elegancia en HD</string>
+    <string name="string_more_avatars">Genera avatares digitales infinitamente.</string>
+    <string name="string_all_templates">Todas las plantillas</string>
+    <string name="string_image_downloads">Descargas de imágenes</string>
+    <string name="string_create_avatars">Crear avatares</string>
+    <string name="string_digital_twin">Doble digital restante: %s</string>
+    <string name="string_privacy_policy">Política de privacidad</string>
+    <string name="string_select_vip">Al seleccionar la suscripción VIP, estás aceptando nuestros %1$s y %2$s.</string>
+    <string name="string_sub_tip">La suscripción se renueva automáticamente. Puedes cancelar la suscripción en cualquier momento.</string>
+    <string name="string_sub_plan_error">No se pudo obtener los datos</string>
+
+</resources>

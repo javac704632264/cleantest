@@ -1,0 +1,24 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="sub_color_black2" tools:ignore="ResourceName">#ff1b1d21</color>
+
+    <color name="sub_user_agrrement" tools:ignore="ResourceName">#A2A4BD</color>
+    <color name="color_f2c38b">#F2C38B</color>
+    <color name="color_191b20">#191B20</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_8b8da1">#8B8DA1</color>
+    <color name="color_60361d">#60361D</color>
+    <color name="color_a2a4bd">#A2A4BD</color>
+    <color name="color_f5d5a1">#F5D5A1</color>
+    <color name="color_f5d5a1_70">#B3F5D5A1</color>
+    <color name="color_ffe5b4">#FFE5B4</color>
+    <color name="color_212325">#212325</color>
+
+
+    <color name="color_818181">#818181</color>
+
+    <color name="color_ff3963">#FF3963</color>
+    <color name="color_030303">#030303</color>
+    <color name="color_030303_alpha30">#4d030303</color>
+
+</resources>

@@ -1,0 +1,99 @@
+<resources>
+
+    <string name="sub_title">SailfishVPN 高级功能</string>
+
+    <string name="purchase_fail">购买失败</string>
+    <string name="purchase_user_cancel">支付被取消</string>
+    <string name="purchase_gp_service_not_available">无法连接至谷歌服务</string>
+    <string name="purchase_already_owned">您已经是订阅用户，不需要重复订阅</string>
+
+    <string name="sub_year_peroidd">年</string>
+    <string name="sub_half_year">半年</string>
+    <string name="sub_month_periodd">月</string>
+    <string name="sub_three_month">3个月</string>
+    <string name="sub_week">周</string>
+
+    <string name="sub_benefit_no_ad">无广告</string>
+
+    <string name="sub_trail_buy">免费试用 %1$s 天</string>
+
+    <string name="sub_trail_direct_buy">升级</string>
+
+    <string name="sub_restore">恢复订阅</string>
+
+    <string name="sub_retain_giveup">放弃优惠</string>
+
+    <string name="sub_successfully">支付成功</string>
+
+    <string name="sub_success_dialog_thank">感谢您的支持，已为您解锁全部高级权益</string>
+
+    <string name="sub_give_up_discount">放弃优惠？</string>
+
+    <string name="sub_restore_status_success">订阅状态已更新</string>
+    <string name="sub_restore_status_fail">当前账号未订阅，请切换谷歌账号后重试。</string>
+
+    <string name="sub_off">优惠</string>
+
+    <string name="sub_giveup_discount">立省 %1$s</string>
+
+    <string name="sub_no_gp_service_hint">无法连接至谷歌服务</string>
+
+    <string name="sub_pay_failed">升级失败</string>
+    <string name="sub_pay_failed_desc">解锁高级功能失败</string>
+
+    <string name="sub_benefit_more_vpn">更多的连接节点</string>
+    <string name="sub_benefit_unlimited">更稳定的服务</string>
+    <string name="sub_benefit_safe">隐私模式</string>
+    <string name="sub_success_thank_new">感谢您的支持！现在您可以使用所有的VIP权限。</string>
+    <string name="sub_loading">SailfishVPN VIP 方案加载中...</string>
+    <string name="sub_title_new">升级到VIP</string>
+    <string name="sub_detail_desc_1">立即解锁所有VIP会员权益</string>
+    <string name="sub_detail_desc_2">可以随时通过Google Play 取消订阅</string>
+    <string name="sub_purchased_to_connect">连接VPN</string>
+    <string name="sub_buy_price">之后 %1$s</string>
+    <string name="sub_benefit_unlimited_time">无限连接时长</string>
+
+    <string name="sub_tip_1">隐藏IP地址</string>
+    <string name="sub_tip_2">10倍网络加速</string>
+    <string name="sub_tip_3">100% 无广告</string>
+    <string name="sub_tip_4">100+的VIP节点</string>
+    <string name="sub_tip_5">流媒体加速</string>
+    <string name="sub_tip_6">无限制的链接时间</string>
+    <string name="sub_tip_7">AI智能频道推荐</string>
+
+    <string name="string_pro_experience">释放您的创造力，尽享PRO版体验</string>
+    <string name="string_generate_infinite">无限次生成</string>
+    <string name="string_week">1 周</string>
+    <string name="string_month">1 个月</string>
+    <string name="string_year">1 年</string>
+    <string name="string_continue">继续</string>
+    <string name="string_restore">恢复</string>
+    <string name="string_off">%s 折扣</string>
+    <string name="string_start_generate">开始无限次生成</string>
+    <string name="string_renew">续订</string>
+    <string name="sub_trial_description_new">订阅将自动延长为 %1$s 的订阅。您随时可以在 Google Play 上取消订阅。</string>
+    <string name="string_open_unlock">开通会员，解锁无限次生成数字分身</string>
+    <string name="string_premium_plan">Doodle Camera 会员权益正在加载</string>
+    <string name="string_successfully">成功！</string>
+    <string name="string_premium_success">感谢您的支持，所有高级功能已解锁。</string>
+    <string name="string_ok">确定</string>
+    <string name="string_upgrade_failed">升级失败</string>
+    <string name="string_failed_premium">无法解锁高级功能。</string>
+    <string name="string_give_up">放弃</string>
+    <string name="string_give_up_discount">放弃折扣？</string>
+    <string name="string_save">节省 %s</string>
+    <string name="string_cancel">取消</string>
+    <string name="string_user_agreement">用户协议</string>
+
+    <string name="string_unlock_templates">畅享无限模版创作</string>
+    <string name="string_unlimited_downloads">不限次下载精美图片，尽享高清风采</string>
+    <string name="string_more_avatars">无限次生成数字分身</string>
+    <string name="string_all_templates">全部模板</string>
+    <string name="string_image_downloads">图像下载</string>
+    <string name="string_create_avatars">生成分身</string>
+    <string name="string_digital_twin">剩余数字分身次数：%s</string>
+    <string name="string_privacy_policy">隐私政策</string>
+    <string name="string_select_vip">选择 VIP 订阅即表示您同意我们的 %1$s 和 %2$s。</string>
+    <string name="string_sub_tip">订阅为自动续订。您可以随时取消订阅。</string>
+    <string name="string_sub_plan_error">获取数据失败</string>
+</resources>

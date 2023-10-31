@@ -1,0 +1,93 @@
+<resources>
+
+    <string name="sub_title">ميزات SailfishVPN Premium</string>
+
+    <string name="purchase_fail">فشل الشراء</string>
+    <string name="purchase_user_cancel">تم إلغاء الدفع</string>
+    <string name="purchase_gp_service_not_available">خدمة Google Play غير متوفرة</string>
+    <string name="purchase_already_owned">مشترك بالفعل، لا حاجة للاشتراك مرة أخرى</string>
+
+    <string name="sub_year_peroidd">سنة</string>
+    <string name="sub_half_year">نصف سنة</string>
+    <string name="sub_month_periodd">شهر</string>
+    <string name="sub_three_month">3 أشهر</string>
+    <string name="sub_week">أسبوع</string>
+
+    <string name="sub_benefit_no_ad">لا إعلانات</string>
+
+    <string name="sub_trail_buy">تجربة مجانية لمدة %1$s أيام</string>
+
+    <string name="sub_trail_direct_buy">ترقية</string>
+
+    <string name="sub_restore">استعادة</string>
+
+    <string name="sub_retain_giveup">تخلي</string>
+
+    <string name="sub_successfully">نجاح!</string>
+
+    <string name="sub_give_up_discount">ترك عن الخصم؟ </string>
+
+
+    <string name="sub_restore_status_success">تم تحديث حالة الاشتراك!</string>
+    <string name="sub_restore_status_fail">الحساب الجاري غير مشترك، يرجى التبديل إلى حساب Google والمحاولة مرة أخرى</string>
+
+    <string name="sub_off">خصم</string>
+
+    <string name="sub_giveup_discount">وفر %1$s</string>
+
+    <string name="sub_no_gp_service_hint">يتعذر الاتصال بخدمة Google Play</string>
+
+    <string name="sub_pay_failed">فشلت الترقية</string>
+    <string name="sub_pay_failed_desc">فشل في إلغاء قفل المزايا الممتازة.</string>
+
+
+    <string name="sub_success_thank_new">شكرًا على دعمك. يمكنك التمتع بجميع ميزات الشخصيات الهامة الآن.</string>
+    <string name="sub_loading">خطة SailfishVPN المميز \n جاري التحميل…</string>
+    <string name="sub_title_new">قم بالترقية إلى الشخصيات الهامة (VIP)</string>
+    <string name="sub_detail_desc_1">قم بإلغاء قفل جميع ميزات الشخصيات الهامة (VIP) الآن</string>
+    <string name="sub_detail_desc_2">يمكنك الإلغاء من Google Play أي وقت</string>
+    <string name="sub_benefit_more_vpn">المزيد من عقد خادم الشبكة الخاصة الافتراضية</string>
+    <string name="sub_benefit_unlimited">حركة بيانات غير محدودة</string>
+    <string name="sub_benefit_safe">حماية الخصوصية</string>
+    <string name="sub_benefit_ai"> توصية قناة ai</string>
+    <string name="sub_buy_price">ثم %1$s</string>
+
+    <string name="sub_success_dialog_thank">نحن نقدر دعمكم، كل الميزات المتميزة متوفرة الآن.</string>
+
+    <string name="sub_benefit_unlimited_time">وقت اتصال غير محدود</string>
+    <string name="sub_purchased_to_connect">اتصال الشبكة الخاصة الافتراضية</string>
+
+    <string name="sub_tip_1">إخفاء عنوان  IP</string>
+    <string name="sub_tip_2">السرعة 10X أسرع</string>
+    <string name="sub_tip_3">100% لا يوجد أي إعلانات</string>
+    <string name="sub_tip_4">100+ موقع  vip</string>
+    <string name="sub_tip_5">مقاطع فيديو عالية الجودة في أي وقت</string>
+    <string name="sub_tip_6">∞ + وقت الاتصال</string>
+    <string name="sub_tip_7">توصية  لقناة  (ai)</string>
+
+
+    <string name="string_pro_experience">أطلق العنان لإبداعك باستخدام تجربة المحترفين</string>
+    <string name="string_remove_ads">قم بإزالة الإعلانات</string>
+    <string name="string_generate_infinite">قم بالإنشاء بدون حدود</string>
+    <string name="string_week">1 أسبوع</string>
+    <string name="string_month">1 شهر</string>
+    <string name="string_year">1 سنة</string>
+    <string name="string_continue">متابعة</string>
+    <string name="string_restore">استعادة</string>
+    <string name="string_off">%s خصم</string>
+    <string name="string_start_generate">ابدأ الإنشاء بدون حدود</string>
+    <string name="string_renew">تجديد</string>
+    <string name="sub_trial_description_new">بعد انتهاء التجريبية المجانية، سيمتد الاشتراك تلقائيًا إلى اشتراك سنوي مقابل %1$s. يمكنك إلغاؤه من Google Play في أي وقت.</string>
+    <string name="string_open_unlock">كن عضوًا لتتمكن من الإنشاء بدون حدود</string>
+    <string name="string_premium_plan">جاري تحميل خطة Doodle Camera المتميزة</string>
+    <string name="string_successfully">نجح!</string>
+    <string name="string_premium_success">شكرًا لك على دعمك، تم إلغاء قفل جميع الميزات المتميزة.</string>
+    <string name="string_ok">موافق</string>
+    <string name="string_upgrade_failed">فشلت الترقية</string>
+    <string name="string_failed_premium">فشل في إلغاء قفل المزايا المتميزة.</string>
+    <string name="string_give_up">التخلي</string>
+    <string name="string_give_up_discount">التخلي عن الخصم؟</string>
+    <string name="string_save">توفير %s</string>
+    <string name="string_cancel">إلغاء</string>
+    <string name="string_user_agreement">اتفاقية المستخدم</string>
+</resources>

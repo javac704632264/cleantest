@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/sub_price_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/common_dimens_12dp"
+        android:background="@drawable/sub_price_card_bg_normal"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/sub_price_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="@dimen/common_dimens_12dp"
+            android:layout_marginTop="@dimen/common_dimens_8dp"
+            android:layout_marginBottom="@dimen/common_dimens_8dp"
+            android:text="--"
+            android:textColor="@color/color_8b8da1"
+            android:textSize="@dimen/common_text_size_11sp"
+            tools:text="6 month" />
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/sub_card_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/common_dimens_3dp"
+            android:layout_marginEnd="@dimen/common_dimens_3dp"
+            android:layout_marginBottom="@dimen/common_dimens_3dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/sub_price_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginHorizontal="@dimen/common_dimens_12dp"
+                android:layout_marginTop="@dimen/common_dimens_6dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="--"
+                android:textColor="@color/color_8b8da1"
+                android:textSize="@dimen/common_text_size_15sp"
+                tools:text="$72" />
+
+            <TextView
+                android:id="@+id/sub_price_period"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginHorizontal="@dimen/common_dimens_12dp"
+                android:layout_marginTop="@dimen/common_dimens_6dp"
+                android:text="--"
+                android:lines="1"
+                android:textColor="@color/color_8b8da1"
+                android:textSize="@dimen/common_text_size_9sp"
+                tools:text="$12/month" />
+
+            <TextView
+                android:id="@+id/sub_price_saved"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/common_dimens_35dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginHorizontal="@dimen/common_dimens_12dp"
+                android:layout_marginBottom="@dimen/common_dimens_10dp"
+                android:layout_marginTop="@dimen/common_dimens_6dp"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:maxLines="2"
+                android:text="--"
+                android:textColor="@color/color_f2c38b"
+                android:textSize="@dimen/common_text_size_11sp"
+                tools:text="save24$" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <TextView
+        android:id="@+id/sub_price_discount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/sub_discount_bg"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:paddingHorizontal="@dimen/common_dimens_8dp"
+        android:paddingVertical="@dimen/common_dimens_3dp"
+        android:textColor="@color/white"
+        android:textSize="@dimen/common_text_size_9sp"
+        android:visibility="gone"
+        tools:text="70% OFF" />
+</FrameLayout>

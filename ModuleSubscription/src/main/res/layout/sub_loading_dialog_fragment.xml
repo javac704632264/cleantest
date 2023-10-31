@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/DialogStyleBg"
+    android:background="@color/common_color_transparent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/common_dimens_60dp"
+        android:background="@drawable/sub_detail_loading_bg"
+        android:gravity="center"
+        android:minWidth="@dimen/common_dimens_168dp"
+        android:minHeight="@dimen/common_dimens_122dp"
+        android:orientation="vertical"
+        android:padding="@dimen/common_dimens_24dp">
+
+        <ProgressBar
+            android:layout_width="@dimen/common_dimens_24dp"
+            android:layout_height="@dimen/common_dimens_24dp"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:id="@+id/progress_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/common_dimens_16dp"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxLines="2"
+            android:textColor="@color/color_ffffff"
+            android:textSize="@dimen/common_text_size_16sp"
+            tools:text="@string/sub_loading" />
+    </LinearLayout>
+
+</FrameLayout>

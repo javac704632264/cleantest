@@ -1,0 +1,101 @@
+<resources>
+
+    <string name="sub_title">Recursos Premium do SHAREit</string>
+
+    <string name="purchase_fail">Falha na compra</string>
+    <string name="purchase_user_cancel">O pagamento foi cancelado</string>
+    <string name="purchase_gp_service_not_available">Serviço Google Play indisponível</string>
+    <string name="purchase_already_owned">Já cadastrado, não há necessidade de subscrever novamente</string>
+
+    <string name="sub_year_peroidd">Ano</string>
+    <string name="sub_half_year">Seis meses</string>
+    <string name="sub_month_periodd">Mês</string>
+    <string name="sub_three_month">3 meses</string>
+    <string name="sub_week">Semana</string>
+
+    <string name="sub_benefit_no_ad">Sem anúncios</string>
+
+    <string name="sub_trail_buy">TRILHA GRATUITA POR %1$s DIAS</string>
+
+    <string name="sub_trail_direct_buy">ATUALIZAR</string>
+
+    <string name="sub_restore">RECUPERAR</string>
+
+    <string name="sub_retain_giveup">Desistir</string>
+
+    <string name="sub_successfully">CONCLUÍDO COM SUCESSO!</string>
+
+    <string name="sub_give_up_discount">Desistir do desconto?</string>
+
+
+    <string name="sub_restore_status_success">Status de assinaturas atualizado!</string>
+    <string name="sub_restore_status_fail">A conta corrente não está registrada, altere para a conta Google e tente novamente</string>
+
+    <string name="sub_off">desligado</string>
+
+    <string name="sub_giveup_discount">ECONOMIZE %1$s</string>
+
+    <string name="sub_no_gp_service_hint">Não é possível conetar ao serviço Google Play</string>
+
+    <string name="sub_pay_failed">FALHA NA ATUAULIZAÇÃO</string>
+    <string name="sub_pay_failed_desc">Falha no desbloqueio de recursos Premium.</string>
+
+    <string name="sub_success_thank_new">Obrigado pelo seu suporte. Já pode desfrutar de todos os recursos VIP.</string>
+    <string name="sub_loading">O plano SailfishVPN Premium está \n a carregar...</string>
+    <string name="sub_title_new">Atualizar para VIP</string>
+    <string name="sub_detail_desc_1">Desbloqueie imediatamente todos os recursos VIP</string>
+    <string name="sub_detail_desc_2">Pode cancelar no Google Play em qualquer momento</string>
+    <string name="sub_benefit_more_vpn">Mais nós de servidor vpn</string>
+    <string name="sub_benefit_unlimited">Tráfego ilimitado</string>
+    <string name="sub_benefit_safe">Proteção de privacidade</string>
+    <string name="sub_benefit_ai">recomendação de canal ai</string>
+    <string name="sub_buy_price">antes %1$s</string>
+    <string name="sub_success_dialog_thank">Agradecemos o seu apoio, todas as funcionalidades premium já estão disponíveis.</string>
+
+    <string name="sub_benefit_unlimited_time">Tempo de ligação ilimitado</string>
+    <string name="sub_purchased_to_connect">Ligar VPN</string>
+
+    <string name="sub_tip_1">esconda o endereço IP</string>
+    <string name="sub_tip_2">10x mais rápido</string>
+    <string name="sub_tip_3">100% livre de ads</string>
+    <string name="sub_tip_4">100+ localizações VIP</string>
+    <string name="sub_tip_5">Vídeos HD qualquer hora</string>
+    <string name="sub_tip_6">∞+ tempo de conexão</string>
+    <string name="sub_tip_7">recomendação de canal ai</string>
+
+    <string name="string_pro_experience">Desperte sua criatividade com a experiência PRO</string>
+    <string name="string_generate_infinite">Gerar infinitamente</string>
+    <string name="string_week">1 Semana</string>
+    <string name="string_month">1 Mês</string>
+    <string name="string_year">1 Ano</string>
+    <string name="string_continue">Continuar</string>
+    <string name="string_restore">Restaurar</string>
+    <string name="string_off">%s DE DESCONTO</string>
+    <string name="string_start_generate">Começando a Gerar Infinitamente</string>
+    <string name="string_renew">Renovar</string>
+    <string name="sub_trial_description_new">A assinatura será renovada automaticamente para %1$s. Você pode cancelá-lo a qualquer momento no Google Play.</string>
+    <string name="string_open_unlock">Assine para desbloquear criações infinitas de avatares</string>
+    <string name="string_premium_plan">O plano Premium da Câmera Doodle está carregando</string>
+    <string name="string_successfully">Com sucesso!</string>
+    <string name="string_premium_success">Obrigado pelo seu apoio, todos os recursos premium foram liberados.</string>
+    <string name="string_ok">OK</string>
+    <string name="string_upgrade_failed">Falha na atualização</string>
+    <string name="string_failed_premium">Falha ao desbloquear recursos premium.</string>
+    <string name="string_give_up">Desistir</string>
+    <string name="string_give_up_discount">Desistir do desconto?</string>
+    <string name="string_save">ECONOMIZE %s</string>
+    <string name="string_cancel">Cancelar</string>
+    <string name="string_user_agreement">Acordos do Usuário</string>
+
+    <string name="string_unlock_templates">Desfrute da Criatividade Ilimitada com Modelos</string>
+    <string name="string_unlimited_downloads">Downloads Ilimitados de Imagens Exquisitas, Abraçando a Elegância HD</string>
+    <string name="string_more_avatars">Crie avatares digitais infinitamente.</string>
+    <string name="string_all_templates">Todos os Modelos</string>
+    <string name="string_image_downloads">Downloads de Imagens</string>
+    <string name="string_create_avatars">Criar avatares</string>
+    <string name="string_digital_twin">Gêmeo Digital Restante: %s</string>
+    <string name="string_privacy_policy">Política de Privacidade</string>
+    <string name="string_select_vip">Ao selecionar a subscrição VIP, está a concordar com os nossos %1$s e %2$s.</string>
+    <string name="string_sub_tip">A subscrição é renovada automaticamente. Pode cancelar a subscrição a qualquer momento. </string>
+    <string name="string_sub_plan_error">Não foi possível obter os dados</string>
+</resources>

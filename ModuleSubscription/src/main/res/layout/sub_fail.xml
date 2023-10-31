@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_black_transparent_70"
+    tools:ignore="MissingDefaultResource,ResourceName">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/sub_fail_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/common_dimens_20dp"
+        android:background="@drawable/sub_pay_fail_bg"
+        android:paddingHorizontal="@dimen/common_dimens_24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/sub_fail_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/common_dimens_71dp"
+            android:maxLines="2"
+            android:text="@string/sub_pay_failed"
+            android:textColor="@color/color_60361d"
+            android:textSize="@dimen/common_text_size_20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/sub_fail_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/common_dimens_30dp"
+            android:layout_marginTop="@dimen/common_dimens_9dp"
+            android:layout_marginEnd="@dimen/common_dimens_30dp"
+            android:gravity="center"
+            android:text="@string/sub_pay_failed_desc"
+            android:textColor="@color/color_60361d"
+            android:textSize="@dimen/common_text_size_12sp"
+            app:layout_constrainedWidth="true"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/sub_fail_title" />
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/sub_fail_benefit_card"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/common_dimens_12dp"
+            android:background="@drawable/sub_fail_card_bg"
+            android:orientation="vertical"
+            android:paddingHorizontal="@dimen/common_dimens_20dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/sub_fail_desc">
+
+            <TextView
+                android:id="@+id/sub_benefit_no_ad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/common_dimens_20dp"
+                android:drawableStart="@drawable/sub_fail_benefit_icon"
+                android:drawablePadding="@dimen/common_dimens_17dp"
+                android:gravity="center_vertical"
+                android:text="@string/sub_tip_1"
+                android:textColor="@color/color_60361d"
+                android:textSize="@dimen/common_text_size_12sp" />
+
+            <TextView
+                android:id="@+id/sub_benefit_unlimited_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/common_dimens_8dp"
+                android:drawableStart="@drawable/sub_fail_benefit_icon"
+                android:drawablePadding="@dimen/common_dimens_17dp"
+                android:gravity="center_vertical"
+                android:text="@string/sub_tip_2"
+                android:textColor="@color/color_60361d"
+                android:textSize="@dimen/common_text_size_12sp" />
+
+            <TextView
+                android:id="@+id/sub_benefit_more_vpn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/common_dimens_8dp"
+                android:drawableStart="@drawable/sub_fail_benefit_icon"
+                android:drawablePadding="@dimen/common_dimens_17dp"
+                android:gravity="center_vertical"
+                android:text="@string/sub_tip_3"
+                android:textColor="@color/color_60361d"
+                android:textSize="@dimen/common_text_size_12sp" />
+
+            <TextView
+                android:id="@+id/sub_benefit_unlimited"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/common_dimens_8dp"
+                android:drawableStart="@drawable/sub_fail_benefit_icon"
+                android:drawablePadding="@dimen/common_dimens_17dp"
+                android:gravity="center_vertical"
+                android:text="@string/sub_tip_4"
+                android:textColor="@color/color_60361d"
+                android:textSize="@dimen/common_text_size_12sp" />
+
+            <TextView
+                android:id="@+id/sub_benefit_safe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/common_dimens_8dp"
+                android:drawableStart="@drawable/sub_fail_benefit_icon"
+                android:drawablePadding="@dimen/common_dimens_17dp"
+                android:gravity="center_vertical"
+                android:text="@string/sub_tip_5"
+                android:textColor="@color/color_60361d"
+                android:textSize="@dimen/common_text_size_12sp" />
+
+            <TextView
+                android:id="@+id/sub_benefit_tip_6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/common_dimens_8dp"
+                android:drawableStart="@drawable/sub_fail_benefit_icon"
+                android:drawablePadding="@dimen/common_dimens_17dp"
+                android:gravity="center_vertical"
+                android:text="@string/sub_tip_6"
+                android:textColor="@color/color_60361d"
+                android:textSize="@dimen/common_text_size_12sp" />
+
+            <TextView
+                android:id="@+id/sub_benefit_cloud"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/common_dimens_8dp"
+                android:layout_marginBottom="@dimen/common_dimens_18dp"
+                android:drawableStart="@drawable/sub_fail_benefit_icon"
+                android:drawablePadding="@dimen/common_dimens_17dp"
+                android:text="@string/sub_tip_7"
+                android:gravity="center_vertical"
+                android:textColor="@color/color_60361d"
+                android:textSize="@dimen/common_text_size_12sp" />
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/sub_view_bg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/common_dimens_29dp"
+            android:background="@drawable/sub_fail_free_btn_bg"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/sub_fail_benefit_card"
+            android:clickable="false"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingVertical="@dimen/common_dimens_6dp">
+
+            <TextView
+                android:id="@+id/fail_retry_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:paddingHorizontal="@dimen/common_dimens_20dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/sub_trail_buy"
+                android:textColor="#FFE5B3"
+                android:textSize="@dimen/common_text_size_14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/sub_buy_price_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingHorizontal="@dimen/common_dimens_20dp"
+                android:layout_marginTop="@dimen/common_dimens_1dp"
+                android:textColor="#FFE5B3"
+                android:textSize="@dimen/common_text_size_9sp"
+                tools:text="$4.99/YEAR" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <TextView
+            android:id="@+id/fail_close_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/common_dimens_6dp"
+            android:layout_marginBottom="@dimen/common_dimens_10dp"
+            android:gravity="center"
+            android:paddingVertical="@dimen/common_dimens_10dp"
+            android:text="@string/sub_retain_giveup"
+            android:textAllCaps="true"
+            android:textColor="@color/color_60361d"
+            android:textSize="@dimen/common_text_size_14sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/sub_view_bg" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/sub_fail_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sub_fail_logo"
+        app:layout_constraintBottom_toTopOf="@+id/sub_fail_card"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/sub_fail_card" />
+</androidx.constraintlayout.widget.ConstraintLayout>
