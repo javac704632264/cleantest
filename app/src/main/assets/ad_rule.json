@@ -1,0 +1,962 @@
+[
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "backups\/.SystemConfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "mipush\/",
+  "ad_name": "Xiaomu push",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".chartboost\/",
+  "ad_name": "Chartboost",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/tempdata\/",
+  "ad_name": "Baidu temp files",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".um\/",
+  "ad_name": "Umeng",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/tempdata\/",
+  "ad_name": "Baidu temp files",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "amap\/openamaplocationsdk\/",
+  "ad_name": "Amap cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/tempdata\/",
+  "ad_name": "Baidu temp files",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "backups\/.SystemConfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".doodlemobile_featureviewnew\/",
+  "ad_name": "Doodle Mobile",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "gamecfg\/",
+  "ad_name": "Generic ad junk",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "netimages\/",
+  "ad_name": "Generic game ads",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "TempImages\/",
+  "ad_name": "Images Ads",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/pushservice\/",
+  "ad_name": "Baidu push",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "amap\/openamaplocationsdk\/",
+  "ad_name": "Amap cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".um\/",
+  "ad_name": "Umeng",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "msc\/",
+  "ad_name": "MSC",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "Download\/cache\/",
+  "ad_name": "Generic ad junk",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".skynet\/",
+  "ad_name": "Skynet",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "Download\/data\/cn.cmgame.sdk\/",
+  "ad_name": "CMGame",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "wostoresecurity\/",
+  "ad_name": "Wostore Security",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "backups\/.SystemConfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "sharesdk\/",
+  "ad_name": "ShareSDK",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "tencent\/mta\/",
+  "ad_name": "Tencent cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "GoAdSdk\/",
+  "ad_name": "GO launcher",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "InAppBillingLibrary\/",
+  "ad_name": "Generic game ads",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".droidga\/",
+  "ad_name": "Generic game ads",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".chartboost\/",
+  "ad_name": "Chartboost",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/hybrid\/lightappdb\/",
+  "ad_name": "LightApp",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "amap\/openamaplocationsdk\/",
+  "ad_name": "Amap cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/pushservice\/",
+  "ad_name": "Baidu push",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "adpopcorn\/cache\/",
+  "ad_name": "AdsPOPcorn",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "System\/data\/",
+  "ad_name": "Advertised game cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "miad\/cache\/",
+  "ad_name": "Mi AD Cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "system\/tmp\/local\/",
+  "ad_name": "Temporary file directory",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "amap\/openamaplocationsdk\/",
+  "ad_name": "Amap cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".chartboost\/",
+  "ad_name": "Chartboost",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".systemconfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "amap\/openamaplocationsdk\/",
+  "ad_name": "Amap cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".systemconfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "GoAdSdk\/",
+  "ad_name": "GO launcher",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/tempdata\/",
+  "ad_name": "Baidu temp files",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".mobvista700\/download\/",
+  "ad_name": "AD Image Cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "backups\/.SystemConfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".um\/",
+  "ad_name": "Umeng",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "UnityAdsVideoCache\/",
+  "ad_name": "Unity",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "openfeint\/",
+  "ad_name": "Game store cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "Tencent\/mta\/",
+  "ad_name": "Tencent cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/tempdata\/",
+  "ad_name": "Baidu temp files",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "Android\/data\/code\/",
+  "ad_name": "Game store cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "Tencent\/wtlogin\/",
+  "ad_name": "Login logs from Tencent",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".EveryplayCache\/",
+  "ad_name": "Generic game ads",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".chartboost\/",
+  "ad_name": "Chartboost",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".mobvista700\/download\/",
+  "ad_name": "AD Image Cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "mbstph\/",
+  "ad_name": "Generic ad junk",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".um\/",
+  "ad_name": "Umeng",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "System\/tmp\/local\/",
+  "ad_name": "Temporary file directory",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".um\/",
+  "ad_name": "Umeng",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".SystemConfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "ShareSDK\/",
+  "ad_name": "ShareSDK",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "amap\/openamaplocationsdk\/",
+  "ad_name": "Amap cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "amap\/openamaplocationsdk\/",
+  "ad_name": "Amap cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "backups\/.SystemConfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "MIUI\/.cache\/resource\/webResCache\/",
+  "ad_name": "MIUI Cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "amap\/openamaplocationsdk\/",
+  "ad_name": "Amap cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".adc2\/",
+  "ad_name": "AdsC cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "__chartboost\/",
+  "ad_name": "Chartboost",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "backups\/.SystemConfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "tencent\/wtlogin\/",
+  "ad_name": "Login logs from Tencent",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "system\/data\/",
+  "ad_name": "Advertised game cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "amap\/openamaplocationsdk\/",
+  "ad_name": "Amap cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "amap\/openamaplocationsdk\/",
+  "ad_name": "Amap cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "GoAdSdk\/",
+  "ad_name": "GO launcher",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".mobvista700\/download\/",
+  "ad_name": "AD Image Cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "system\/tmp\/local\/",
+  "ad_name": "Temporary file directory",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".SystemConfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "bddownload\/",
+  "ad_name": "Generic ad junk",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/hybrid\/lightappdb\/",
+  "ad_name": "LightApp",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "GoAdSdk\/",
+  "ad_name": "GO launcher",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/pushservice\/",
+  "ad_name": "Baidu push",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".SystemService\/",
+  "ad_name": "Generic ad junk",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "__chartboost\/",
+  "ad_name": "Chartboost",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "aquery\/",
+  "ad_name": "AndroidQuery cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "AppGame\/",
+  "ad_name": "GO launcher",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "UnityAdsVideoCache\/",
+  "ad_name": "Unity",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/tempdata\/",
+  "ad_name": "Baidu temp files",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "TempImages\/",
+  "ad_name": "Images Ads",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "ApplifierVideoCache\/",
+  "ad_name": "Applifier",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "iapppay\/",
+  "ad_name": "Love Tony",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/pushservice\/",
+  "ad_name": "Baidu push",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".beintoo\/",
+  "ad_name": "Beintoo",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/pushservice\/",
+  "ad_name": "Baidu push",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".systemconfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/tempdata\/",
+  "ad_name": "Baidu temp files",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "amap\/openamaplocationsdk\/",
+  "ad_name": "Amap cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/pushservice\/",
+  "ad_name": "Baidu push",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/hybrid\/lightappdb\/",
+  "ad_name": "LightApp",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "aquery\/",
+  "ad_name": "AndroidQuery cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "crash\/",
+  "ad_name": "Ad images",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "InAppBillingLibrary\/",
+  "ad_name": "Generic game ads",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "iapppay\/",
+  "ad_name": "Love Tony",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "baidu\/pushservice\/",
+  "ad_name": "Baidu push",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "icloudzone\/",
+  "ad_name": "iCloudZone",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".droidga\/",
+  "ad_name": "Generic game ads",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".gameAd\/",
+  "ad_name": "FT Games",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".systemconfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "droidhen\/promptImgs\/",
+  "ad_name": "Images Ads",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "__chartboost\/",
+  "ad_name": "Chartboost",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "openfeint\/",
+  "ad_name": "Game store cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "System\/data\/",
+  "ad_name": "Advertised game cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "Android\/data\/com.chartboost.sdk\/",
+  "ad_name": "Chartboost",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".SystemService\/",
+  "ad_name": "Generic ad junk",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".chartboost\/",
+  "ad_name": "Chartboost",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "crash\/",
+  "ad_name": "Ad images",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".SystemConfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "GoAdSdk\/",
+  "ad_name": "GO launcher",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".beintoo\/",
+  "ad_name": "Beintoo",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "Download\/.cache\/",
+  "ad_name": "Generic ad junk",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "data\/com\/qihoo\/stat\/",
+  "ad_name": "360 cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".data\/CacheManager\/",
+  "ad_name": "Images Ads",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "gamecfg\/",
+  "ad_name": "Generic ad junk",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "data\/com\/qhpush\/",
+  "ad_name": "360 push",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "Kamcord\/",
+  "ad_name": "Kamcord",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "ShareSDK\/",
+  "ad_name": "ShareSDK",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".skynet\/",
+  "ad_name": "Skynet",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "backups\/.SystemConfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "ktplay\/",
+  "ad_name": "KTPlay",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".chartboost\/",
+  "ad_name": "Chartboost",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "TTImages_cache\/",
+  "ad_name": "Generic ad junk",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "icloudzone\/",
+  "ad_name": "iCloudZone",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".systemconfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".UTSystemConfig\/",
+  "ad_name": "Taobao cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".android_sec\/",
+  "ad_name": "UUCUN",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".skynet\/",
+  "ad_name": "Skynet",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "GoAdSdk\/",
+  "ad_name": "GO launcher",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "Android\/temp\/",
+  "ad_name": "Generic ad junk",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "openfeint\/",
+  "ad_name": "Game store cache",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "wostoresecurity\/",
+  "ad_name": "Wostore Security",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "backups\/.SystemConfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "burstlyImageCache\/",
+  "ad_name": "Burstly",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": "backups\/.SystemConfig\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".chartboost\/",
+  "ad_name": "Chartboost",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".ssjjsy\/",
+  "ad_name": "Generic game ads",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".chartboost\/",
+  "ad_name": "Chartboost",
+  "desc": "Ad"
+ },
+ {
+  "ad_path": ".DataStorage\/",
+  "ad_name": "Alibaba web",
+  "desc": "Ad"
+ }
+]

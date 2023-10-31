@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <Button
+        android:id="@+id/btn_insert_process"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="插入应用"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:visibility="gone"
+        android:id="@+id/img_blur"/>
+
+
+    <com.unshareit.cleantest.view.AutoLoopHorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:id="@+id/autoScrollView">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/medium_nm_1"
+                android:id="@+id/img_pic"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/medium_nm_1"
+                android:id="@+id/img_pic2"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/medium_nm_1"
+                android:id="@+id/img_pic3"/>
+
+        </LinearLayout>
+
+
+    </com.unshareit.cleantest.view.AutoLoopHorizontalScrollView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sliceView">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end|right"
+                android:layout_marginEnd="100dp"
+                android:layout_marginRight="100dp"
+                android:text="处理后" />
+
+            <ImageView
+                android:id="@+id/img_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitStart"
+                android:adjustViewBounds="true"
+                android:src="@drawable/icon_man"
+                android:visibility="visible"/>
+        </FrameLayout>
+
+
+        <com.unshareit.cleantest.view.ClippedViewContainer
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/clippedContainer">
+
+            <ImageView
+                android:id="@+id/customTimeLineView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitStart"
+                android:adjustViewBounds="true"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start|left"
+                android:layout_marginLeft="50dp"
+                android:layout_marginStart="50dp"
+                android:text="处理前" />
+
+        </com.unshareit.cleantest.view.ClippedViewContainer>
+
+
+        <com.unshareit.cleantest.view.DividerView
+            android:id="@+id/dividerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:visibility="visible"/>
+
+        <ImageView
+            android:id="@+id/fullImageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/icon_man"
+            android:visibility="gone"/>
+
+        <ImageView
+            android:id="@+id/partialImageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/icon_woman"
+            android:visibility="gone"/>
+
+        <SeekBar
+            android:id="@+id/seekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:max="100"
+            android:visibility="gone"/>
+
+        <com.unshareit.cleantest.view.ClippedViewContainer
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            >
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitStart"
+                android:adjustViewBounds="true"
+                android:src="@drawable/icon_woman"/>
+        </com.unshareit.cleantest.view.ClippedViewContainer>
+
+    </FrameLayout>
+
+
+</LinearLayout>

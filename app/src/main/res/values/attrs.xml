@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ColourImageView">
+        <attr name="border_color" format="color|reference"></attr>
+    </declare-styleable>
+
+    <declare-styleable name = "CameraBridgeViewBase" >
+        <attr name="show_fps" format="boolean"/>
+        <attr name="camera_id" format="integer" >
+            <enum name="any" value="-1" />
+            <enum name="back" value="99" />
+            <enum name="front" value="98" />
+        </attr>
+    </declare-styleable>
+
+    <!--<declare-styleable name="CircleProgressView">
+        <attr name="progressWidth" format="dimension"/>
+        <attr name="progressColor" format="reference"/>
+        <attr name="progress_backgroundColor" format="reference"/>
+        <attr name="startAngle" format="integer"/>
+        <attr name="endAngle" format="integer"/>
+        <attr name="animation" format="boolean"/>
+        <attr name="duration" format="integer"/>
+    </declare-styleable>-->
+
+    <declare-styleable name="circleProgressView">
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="progressWidth" format="dimension" />
+        <attr name="circleRadius" format="dimension" />
+        <attr name="strokeBgColor" format="color" />
+        <attr name="progressColor" format="color" />
+        <attr name="progresses" format="integer" />
+        <attr name="fromAngle" format="integer" />
+        <attr name="isCapRound" format="boolean"/>
+    </declare-styleable>
+</resources>

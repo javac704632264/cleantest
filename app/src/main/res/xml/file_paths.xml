@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="pic_upload" path="Android/data/com.creator.openai.art.nft/cache/pic_cache"/>
+    <root-path name="root_path" path="."/>
+    <external-files-path name="bga_upgrade_apk" path="upgrade_apk" />
+    <external-cache-path
+        name="images"
+        path="." />
+    <!--<root-path name="root" path="" />
+    <files-path name="files" path="" />
+    <cache-path name="cache" path="" />
+    <external-path name="external" path="" />
+   &lt;!&ndash; <external-files-path name="name" path="path" />&ndash;&gt;
+    <external-cache-path name="name" path="path" />-->
+</paths>
