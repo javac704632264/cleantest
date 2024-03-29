@@ -2,6 +2,16 @@
 buildscript {
     ext.kotlin_version = "1.4.0"
     repositories {
+        maven { url 'http://nexus.ushareit.me/repository/maven-releases/'}
+        maven { url 'https://artifact.bytedance.com/repository/pangle'}
+        maven { url  "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea"}
+        //Anythink(Core)
+        maven { url "https://anythink.jfrog.io/artifactory/android_sdk"}
+        maven { url 'https://developer.huawei.com/repo/' }
+        maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }
         jcenter()
         mavenCentral()
         google()
@@ -16,6 +26,16 @@ buildscript {
 
 allprojects {
     repositories {
+        maven { url 'http://nexus.ushareit.me/repository/maven-releases/'}
+        maven { url 'https://artifact.bytedance.com/repository/pangle'}
+        maven { url  "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea"}
+        //Anythink(Core)
+        maven { url "https://anythink.jfrog.io/artifactory/android_sdk"}
+        maven { url 'https://developer.huawei.com/repo/' }
+        maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }
         jcenter()
         mavenCentral()
         google()

@@ -15,5 +15,4 @@
 rootProject.name = "cleantest"
 include ':app'
 include ':myunity'
-include ':ModuleSubscription'
 include ':networklibrary'

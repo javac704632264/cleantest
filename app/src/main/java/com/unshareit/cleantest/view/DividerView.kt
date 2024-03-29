@@ -43,7 +43,7 @@ class DividerView(context: Context, attrs: AttributeSet) : View(context, attrs) 
         leftBitmap = bitmap
 
 //        rightBitmap = imgBottom.drawable.toBitmap()
-        dividerX = leftBitmap?.width!!.toFloat()/2
+        dividerX = (CommonUtil.getScreenWidthInPx(context).toFloat() - defaultBitmap.width).toFloat()/2
         Log.e(
             "ImageViewActivity",
             "dividerX======>" + dividerX
